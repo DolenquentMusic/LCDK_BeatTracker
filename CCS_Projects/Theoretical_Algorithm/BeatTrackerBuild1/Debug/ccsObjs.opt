@@ -1,0 +1,1 @@
+"./ISRs.obj" "./LCDK_Support_DSP.obj" "./StartUp.obj" "./main.obj" "../dsp64x.lib" "../link6748.cmd" "../mathlib.lib" -l"libc.a" 
